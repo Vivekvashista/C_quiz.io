@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding:0;
+	background-image: url(math2.jpeg);
+	background-size: cover;
+}
+nav ul{
+	list-style: none;
+	width: 20%;
+	margin: 0;
+	padding: 0;
+	margin-left: 60px;
+	margin-top: -30px;
+}
+nav ul li{
+	display: inline;
+	font-weight: bold;
+	padding: 5px;
+}
+nav ul li:hover a{
+	color: #0e203d;
+}
+nav ul li a{
+	color: #fff;
+	text-decoration: none;
